@@ -16,4 +16,6 @@ _______________________________________________________________________
 
 to run tests please execute in the command promt:" ./gradlew test "
 
+You can find run report in /target/surefire-reports/karate-summary.html
+
 
