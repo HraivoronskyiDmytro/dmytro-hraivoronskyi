@@ -29,7 +29,13 @@ Basic checklist:
     resources: transactions, date interval
     information: transaction during date interval
     time 5 min
-
+ - Localization testing :
+  Monefy support several languages 
+  10 minutes for each language.
+ 
+ - Device-specific testing 
+    repeat testing on devices by priority. (time & coverage need to mitigate)
+    
 One of the main features is:
 - Monefy Pro Buy offer. 
   Users can't perform some actions or use some features without buying Monefy Pro. This feature has the highest business priority.
@@ -43,14 +49,10 @@ It appears on:
  - New expence - schedule - Add
  - Add income - select category - add new
  - Add expence - select category - add new
+   
    time 15 min
    
- - Localization testing :
-  Monefy support several languages 
-  10 minutes for each language.
- 
- - Device-specific testing 
-    repeat testing on devices by priority.
+
     
 Risks: Device coverage, localization & currencies coverage.    
 
