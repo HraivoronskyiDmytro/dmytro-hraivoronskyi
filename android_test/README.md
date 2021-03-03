@@ -1,4 +1,4 @@
-# appium based test framework with simple tests for Monefy app (Android)
+# Appium based test framework with simple tests for Monefy app (Android)
 
 please download & copy apk to the/src/test/resources folder.
 edit /src/test/resources/device.properties according to your appium & device configuration (set name of your device to deviceName property e.t.c.)
