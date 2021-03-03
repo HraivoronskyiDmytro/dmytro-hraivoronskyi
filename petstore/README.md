@@ -1,7 +1,7 @@
 # petstore
 
 This is an example of usage karate framework for bdd based api testing
-for https://github.com/swagger-api/swagger-petstore Petstore Petstore - OpenAPI 3.0
+for https://github.com/swagger-api/swagger-petstore Petstore - OpenAPI 3.0
 
 Based on https://github.com/intuit/karate
 
