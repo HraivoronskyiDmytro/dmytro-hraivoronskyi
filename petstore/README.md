@@ -12,6 +12,8 @@ before run change in  Environment.csv to /src/test/resources/ :
 
 baseUri - Base URI of the service.
 
+Required
+Java 8
 _______________________________________________________________________
 
 to run tests please execute in the command promt:" ./gradlew test "
