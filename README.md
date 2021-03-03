@@ -2,32 +2,53 @@ Exploratory testing results of the Monefy mobile application on IOS.
 
 Basic checklist:
  - user can add or remove accounts with default currency and some initial balance
+ 
     resources - account data
+    
     information - data & account balance
+    
     time 10 min
  - add income (only 3 categories are available) to one of the accounts
+    
     resources: income sum, categories
+    
     information: income amount by categories
+    
     time 10 min
  - add the expense to one of the 12 default categories and to one of the accounts
+    
     resources: expenses, categories
+    
     information: expenses by categories
+    
     time 20 min
  - user can transfer money between accounts
+    
     resources: the amount of money, accounts
+    
     information: the amount of money by accounts
+    
     time 10 min
  - user can see transaction history
+    
     resources: income & expenses amounts, date interval
+    
     information: income & expenses amounts by a date interval
+    
     time 5 min
  - user can see a diagram of the expenses by category for a selected interval 
+    
     resources: expenses, categories, date interval
+    
     information: transaction during date interval by categories
+    
     time 5 min
  - user can filter transactions by date, by date interval & by account. Predefined intervals are: Day, Week, Month, Year
+    
     resources: transactions, date interval
+    
     information: transaction during date interval
+    
     time 5 min
  - Localization testing :
   Monefy support several languages 
